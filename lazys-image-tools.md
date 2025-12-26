@@ -65,8 +65,8 @@ If our privacy practices change, we will update this policy and the "Last Update
 
 ## Contact
 For questions about this privacy policy:
-- Email: contact@lazydevgames.com
-- GitHub: https://github.com/lazydevgames/lazydevgames-privacy
+- Email: help@lazydevgames.com
+- GitHub: https://github.com/Vishal-Choudhary-bulu/lazydevgames-privacy
 
 ## Compliance
 This app complies with:

@@ -35,8 +35,8 @@ Across all LazyDev Games products:
 ## Contact
 
 For questions about our privacy practices:
-- Email: contact@lazydevgames.com
-- GitHub: https://github.com/lazydevgames
+- Email: help@lazydevgames.com
+- GitHub: https://github.com/Vishal-Choudhary-bulu
 
 ---
 
