@@ -38,9 +38,6 @@ Leaf Lore is an AI-assisted interactive story writing app where you guide the na
 - **Google Play Games** and **Apple Game Center** for sign-in (they handle authentication, we just get an ID)
 - **Apple/Google** for in-app purchases (they process payments, we never see your payment info)
 
-## Age Requirement
-Leaf Lore is rated 13+ because AI-generated stories may contain content not suitable for younger children.
-
 ## Your Rights
 - Delete your data by contacting us at support@lazydevgames.com
 - We'll answer any questions about your data (spoiler: we barely have any)
