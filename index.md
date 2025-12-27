@@ -4,11 +4,10 @@
 
 ## Our Commitment to Privacy
 
-At LazyDev Games, we are committed to protecting your privacy. Our philosophy is simple: **we try to never collect data wherever possible**.
+At Lazydev Games, we are committed to protecting your privacy. Our philosophy is simple: **we try to never collect data wherever possible**.
 
 - We **never collect personally identifiable information (PII)**
 - Our apps and games are designed to function without collecting or storing user data
-- All processing happens locally on your device whenever possible
 - We believe in privacy by design, not as an afterthought
 
 ---
@@ -25,11 +24,8 @@ A professional image processing suite for macOS. No data collection, all process
 ## General Principles
 
 Across all LazyDev Games products:
-- ✓ No user accounts or registration required
 - ✓ No tracking or analytics
-- ✓ No advertising networks
 - ✓ No third-party data sharing
-- ✓ Local-first processing
 - ✓ Privacy by default
 
 ## Contact
