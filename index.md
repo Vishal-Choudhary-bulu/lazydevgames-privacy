@@ -19,6 +19,9 @@ Below are detailed privacy policies for each of our applications:
 ### [Lazy's Image Tools](lazys-image-tools.md)
 A professional image processing suite for macOS. No data collection, all processing done locally.
 
+### [Leaf Lore](leaf-lore.md)
+An AI-assisted interactive story writing app for iOS and Android. Minimal data collection—only sign-in and purchases. No analytics or tracking.
+
 ---
 
 ## General Principles
