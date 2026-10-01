@@ -1,6 +1,6 @@
 # LazyDev Games Privacy Policy
 
-**Last Updated: December 27, 2025**
+**Last Updated: October 1, 2026**
 
 ## Our Commitment to Privacy
 
@@ -16,8 +16,11 @@ At Lazydev Games, we are committed to protecting your privacy. Our philosophy is
 
 Below are detailed privacy policies for each of our applications:
 
+### [ImageKraft](imagekraft.md)
+An image toolkit for macOS, previously named Lazy's Image Tools. Collects no personal information, all image processing done locally. Covers version 2.0 and later.
+
 ### [Lazy's Image Tools](lazys-image-tools.md)
-A professional image processing suite for macOS. No data collection, all processing done locally.
+Versions 1.x of the app now named ImageKraft. No data collection, all processing done locally.
 
 ### [Leaf Lore](leaf-lore.md)
 An AI-assisted interactive story writing app for iOS and Android. Minimal data collection—only sign-in and purchases. No analytics or tracking.
