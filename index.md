@@ -1,6 +1,6 @@
 # LazyDev Games Privacy Policy
 
-**Last Updated: October 1, 2026**
+**Last Updated: October 11, 2026**
 
 ## Our Commitment to Privacy
 
@@ -19,6 +19,9 @@ Below are detailed privacy policies for each of our applications:
 ### [ImageKraft](imagekraft.md)
 An image toolkit for macOS, previously named Lazy's Image Tools. Collects no personal information, all image processing done locally. Covers version 2.0 and later.
 
+### [ImageKraft Lite](imagekraft-lite.md)
+A photo app for iPhone and Android that makes a photo fit a size, dimension or format requirement. All photo editing done on your phone, no personal data collected. Free with ads from Google AdMob, which collect limited device data to show ads.
+
 ### [Lazy's Image Tools](lazys-image-tools.md)
 Versions 1.x of the app now named ImageKraft. No data collection, all processing done locally.
 
@@ -33,8 +36,8 @@ A macOS menu bar system monitor. No personal data collection, no tracking, and n
 ## General Principles
 
 Across all LazyDev Games products:
-- ✓ No tracking or analytics
-- ✓ No third-party data sharing
+- ✓ No analytics, and no tracking by us
+- ✓ No third-party data sharing, except for the ad provider in free apps with ads (see that app's policy)
 - ✓ Privacy by default
 
 ## Contact
