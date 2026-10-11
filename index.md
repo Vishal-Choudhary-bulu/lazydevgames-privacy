@@ -20,7 +20,7 @@ Below are detailed privacy policies for each of our applications:
 An image toolkit for macOS, previously named Lazy's Image Tools. Collects no personal information, all image processing done locally. Covers version 2.0 and later.
 
 ### [ImageKraft Lite](imagekraft-lite.md)
-A photo app for iPhone and Android that makes a photo fit a size, dimension or format requirement. All photo editing done on your phone, no personal data collected. Free with ads from Google AdMob, which collect limited device data to show ads.
+A photo resizing and compression app for iOS and Android. No personal data collected by us; ads provided by Google AdMob.
 
 ### [Lazy's Image Tools](lazys-image-tools.md)
 Versions 1.x of the app now named ImageKraft. No data collection, all processing done locally.
