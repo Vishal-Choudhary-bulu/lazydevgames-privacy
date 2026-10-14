@@ -1,8 +1,10 @@
-# Privacy Policy for ImageKraft Lite
+# Privacy Policy for PicReady
 
-**Effective date: October 11, 2026**
+**Effective date: October 14, 2026**
 
-This Privacy Policy describes how LazyDev Games ("we", "us") handles information in connection with the ImageKraft Lite mobile application for iOS and Android (the "App").
+PicReady was previously named ImageKraft Lite.
+
+This Privacy Policy describes how LazyDev Games ("we", "us") handles information in connection with the PicReady mobile application for iOS and Android (the "App").
 
 ## Information We Collect
 
